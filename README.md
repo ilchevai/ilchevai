@@ -1,5 +1,5 @@
-<h1> Hello, </h1>
-<h1> My name is Iliana and I'm from Bulgaria :bulgaria: </h1>
+<h1 align="center">Hello,:wave:</h1>
+<h1 align="center"> My name is Iliana and I'm from Bulgaria :bulgaria: </h1>
 <!---
 ilchevai/ilchevai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
