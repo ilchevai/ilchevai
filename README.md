@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iliana</h1>
+<h1 align="center">Hi 👋, I'm Iliana and I'm from Bulgaria </h1>
                       - 🌱 I’m currently learning **Python**
 
 <h3 align="center">Connect with me:</h3>
